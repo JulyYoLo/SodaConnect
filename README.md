@@ -1,0 +1,2 @@
+# SodaConnect
+Daily proxy rules
